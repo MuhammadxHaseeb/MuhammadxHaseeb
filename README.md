@@ -10,10 +10,10 @@ I enjoy turning ideas into real-world products using modern technologies and con
 
 ## 🚀 Currently Grinding
 
-- 📱 **Flutter**
-- ⚛️ **React Native**
-- 🌐 **Full-Stack Development**
-- 🤖 **AI & Machine Learning**
+- 🔭 Currently building projects with **React Native** and **Flutter**
+- 🌱 Learning more about **AI & Machine Learning**
+- 💬 Ask me about **mobile app development** or **full-stack projects**
+- ⚡ Fun fact: I turn ideas into apps faster than I finish my coffee ☕
 
 ---
 
@@ -24,4 +24,3 @@ I enjoy turning ideas into real-world products using modern technologies and con
 </p>
 
 ---
-
