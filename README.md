@@ -1,14 +1,19 @@
-# Hey there, I'm Haseeb 👋
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"/>
-</p>
+# Hey there,
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=600&lines=Self-taught+Mobile+%26+AI+Developer;Flutter+%7C+React+Native+%7C+Full-Stack;Turning+ideas+into+real+products" alt="Typing SVG"/>
-</p>
+I'm **Haseeb**, a self-taught mobile and AI developer.
 
 I enjoy turning ideas into real-world products using modern technologies and continuously improving my skills through hands-on projects.
+
+</td>
+<td width="40%">
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## 🚀 Currently Grinding
 
