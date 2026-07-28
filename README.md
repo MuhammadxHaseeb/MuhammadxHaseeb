@@ -4,29 +4,22 @@ Hey there, 👋
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=750&lines=Self-taught+Mobile+%26+AI+Developer;Flutter+%7C+React+Native+%7C+Full-Stack;Turning+ideas+into+real+products" alt="Typing SVG"/>
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-<tr style="border:none;">
-<td valign="middle" width="70%" style="border:none;">
+<img align="right" width="160" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" />
 
 I'm Haseeb, a self-taught mobile and AI developer.
 
 I enjoy turning ideas into real-world products using modern technologies and continuously improving my skills through hands-on projects.
 
-</td>
-<td width="30%" align="center" style="border:none;">
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="160"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
-##  Currently Grinding
+## 🚀 Currently Grinding
 
 - 🔭 Currently building projects with React Native and Flutter
 - 🌱 Learning more about AI & Machine Learning
 - 💬 Ask me about mobile app development or full-stack projects
 - ⚡ Fun fact: I turn ideas into apps faster than I finish my coffee ☕
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,ts,nodejs,firebase,git&theme=dark" />
