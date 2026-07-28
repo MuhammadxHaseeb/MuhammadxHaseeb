@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=750&lines=Self-taught+Mobile+%26+AI+Developer;Flutter+%7C+React+Native+%7C+Full-Stack;Turning+ideas+into+real+products" alt="Typing SVG"/>
 </p>
 
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="280" align="right"/>
-
 I'm **Haseeb**, a self-taught mobile and AI developer.
 
 I enjoy turning ideas into real-world products using modern technologies and continuously improving my skills through hands-on projects.
 
-<br clear="right"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="320"/>
+</p>
 
 ## 🚀 Currently Grinding
 
