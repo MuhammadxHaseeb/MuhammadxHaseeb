@@ -5,7 +5,6 @@
 
 <img align="right" width="160" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" />
 
-I'm Haseeb.
 
 I enjoy turning ideas into real-world products using modern technologies and continuously improving my skills through hands-on projects.
 
