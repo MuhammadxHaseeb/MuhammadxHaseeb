@@ -19,7 +19,7 @@ I enjoy turning ideas into real-world products using modern technologies and con
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=600&lines=Self-taught+Mobile+%26+AI+Developer;Flutter+%7C+React+Native+%7C+Full-Stack;Turning+ideas+into+real+products" alt="Typing SVG"/>
 </p>
 
-##  Currently Grinding
+## 🚀 Currently Grinding
 
 - 🔭 Currently building projects with **React Native** and **Flutter**
 - 🌱 Learning more about **AI & Machine Learning**
@@ -28,7 +28,7 @@ I enjoy turning ideas into real-world products using modern technologies and con
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,ts,nodejs,firebase,git&theme=dark" />
