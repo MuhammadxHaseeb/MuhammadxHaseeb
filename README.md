@@ -1,7 +1,7 @@
 # Hey there, I'm Haseeb 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="100%"/>
 </p>
 
 <p align="center">
@@ -27,24 +27,6 @@ I enjoy turning ideas into real-world products using modern technologies and con
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="200" src="https://stats-svg.vercel.app/github-stats?username=YOUR_GITHUB_USERNAME&theme=cyberpunk" />
-</p>
-
-> Note: `stats-svg.vercel.app` is a community-run instance and may be unstable at times. If it doesn't render, you can [fork the project](https://github.com/gh0stintheshe11/Stats-SVG) and self-host it on Vercel for reliability.
-
----
-
-### 📫 Connect with Me
-
-- 💼 LinkedIn: [your-name](https://www.linkedin.com/in/your-linkedin/)
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
