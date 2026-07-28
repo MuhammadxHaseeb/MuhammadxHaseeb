@@ -1,7 +1,7 @@
 Hey there, 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=750&lines=Self-taught+Mobile+%26+AI+Developer;Flutter+%7C+React+Native+%7C+Full-Stack;Turning+ideas+into+real+products" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=750&lines=Mobile+%26+AI+Developer;React+Native+%7C+Flutter+%7C+Full-Stack;Turning+ideas+into+real+products" alt="Typing SVG"/>
 </p>
 
 <img align="right" width="160" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" />
