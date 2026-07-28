@@ -1,4 +1,4 @@
-Hey there, 👋
+## Hey there,
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=Self-taught+Mobile+%26+AI+Developer;Flutter+%7C+React+Native+%7C+Full-Stack;Turning+ideas+into+real+products&v=2" alt="Typing SVG"/>
