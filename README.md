@@ -1,7 +1,7 @@
 # Hey there, I'm Haseeb 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300"/>
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"/>
 </p>
 
 <p align="center">
